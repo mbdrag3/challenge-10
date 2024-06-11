@@ -1,0 +1,7 @@
+
+        <svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
+        <rect width="1000" height="500" x="10" y="10" rx="20" ry="20" fill="blue" />
+        
+        <text x="100" y="100" font-size="35" text-anchor="middle" fill="red">22</text>
+        </svg>
+        
